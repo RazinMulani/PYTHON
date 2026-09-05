@@ -1,0 +1,46 @@
+[
+    {
+        "student_id": "101",
+        "name": "Razin",
+        "age": "22",
+        "gender": "Male",
+        "course": "Computer Engineering",
+        "phone": "9404813157",
+        "email": "razinmulani@gmail.com",
+        "address": "mahabi",
+        "photo": "C:/Users/razin/OneDrive/Pictures/Screenshots/Screenshot 2026-07-28 163032.png"
+    },
+    {
+        "student_id": "102",
+        "name": "Sami",
+        "age": "20",
+        "gender": "Male",
+        "course": "Computer Engineering",
+        "phone": "9561599117",
+        "email": "samimulani@gmail.com",
+        "address": "mahabi",
+        "photo": "C:/Users/razin/OneDrive/Pictures/Screenshots/Screenshot 2026-07-28 163032.png"
+    },
+    {
+        "student_id": "103",
+        "name": "Asjad",
+        "age": "14",
+        "gender": "Male",
+        "course": "Civil Engineering",
+        "phone": "7030362991",
+        "email": "asjad@gmail.com",
+        "address": "pune",
+        "photo": "C:/Users/razin/OneDrive/Pictures/Screenshots/Screenshot 2026-07-28 163032.png"
+    },
+    {
+        "student_id": "104",
+        "name": "Azmat",
+        "age": "24",
+        "gender": "Male",
+        "course": "Electrical Engineering",
+        "phone": "7781521258",
+        "email": "azmat@gmail.com",
+        "address": "azmat",
+        "photo": "C:/Users/razin/OneDrive/Pictures/Screenshots/Screenshot 2026-07-24 162125.png"
+    }
+]
